@@ -6,3 +6,4 @@ To run this project:
 5. run docker pull wachirawitjoei/fix_face 
 6. run docker run -d -p 80:80 --name <container_name> wachirawitjoei/fix_face
 7. run python client.py -i <image_path> e.g. python client.py -i ./images/messi.jpg
+8. Test PR
